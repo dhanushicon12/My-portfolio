@@ -10,7 +10,7 @@ The portfolio features a premium dark-themed UI with glassmorphism elements, smo
 ## 🌐 Live Portfolio
 
 🚀 **Live Website:**  
-https://YOUR-GITHUB-USERNAME.github.io/
+https://github.com/dhanushicon12/My-portfolio.git
 
 ---
 
